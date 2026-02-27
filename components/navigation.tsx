@@ -180,7 +180,7 @@ export function Navigation() {
                   </a>
                 ))}
                 <a
-                  href="/cv.pdf"
+                  href="/KhalidElalfie_Cv.pdf"
                   download="Khalid_Elalfie_CV.pdf"
                   className="flex items-center gap-2 px-3 py-2 rounded-lg bg-accent text-accent-foreground font-medium hover:bg-accent/90 transition-colors duration-300 text-xs sm:text-sm"
                 >
