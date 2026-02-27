@@ -96,7 +96,7 @@ export function AboutMe() {
               </motion.div>
               {/* CV Download Button */}
               <motion.a
-                href="/cv.pdf"
+                href="/KhalidElalfie_Cv.pdf"
                 download="Khalid_Elalfie_CV.pdf"
                 variants={itemVariants}
                 className="inline-flex items-center gap-2 px-6 py-3 rounded-lg bg-accent text-accent-foreground font-medium hover:bg-accent/90 transition-colors duration-300 group"
